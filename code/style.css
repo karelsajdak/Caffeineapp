@@ -6,6 +6,9 @@ body {
 header {
     background-color: #ac7339;
     background-image: url("header-coffee-tasting.jpg");
+    width: 100%;
+    height: 100px;
+    box-sizing: content-box;
 }
 nav {
     background-color: #996633;
